@@ -1,5 +1,5 @@
 <HTML>
-<Head> <Titlez> Pagina </title>
+<Head> <Titlez> ejemplo 3  </title>
 <meta charset="UTF-8">
 </Head>
 <Body BGColor="Blue">
