@@ -1,2 +1,2 @@
-# <BR>bienvenido ala pagina DIAMONAME CODIGOS Y MAS
+# <BR>Bienvenido ala pagina DIAMONAME CODIGOS Y MAS
 
